@@ -1,4 +1,5 @@
 <h1>Registro de Participantes em Evento (Usando for)<h1><
+
 💼 Contexto:
 Você está desenvolvendo um sistema para organizar um evento que terá 5 dias de duração. A cada dia, os organizadores precisam informar quantos participantes compareceram.
 
